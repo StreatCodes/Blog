@@ -1,0 +1,6 @@
+baseURL = "https://streat.io/"
+languageCode = "en-us"
+title = "streat.io"
+theme = "streat.io"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
